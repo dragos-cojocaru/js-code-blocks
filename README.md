@@ -2,7 +2,7 @@
 
 An interactive web application that allows you to write, run, and manage JavaScript code blocks in a notebook-like interface.
 
-<video controls src="demo.mp4" title="App Demo"></video>
+[Demo video](https://www.youtube.com/watch?v=crLsuk-UVyQ)
 
 ## Features
 
