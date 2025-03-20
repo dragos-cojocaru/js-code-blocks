@@ -2,6 +2,8 @@
 
 An interactive web application that allows you to write, run, and manage JavaScript code blocks in a notebook-like interface.
 
+⚠️ This is for educational purposes only. Executing JavaScript from a string with `eval()` is an enormous security risk. ⚠️
+
 [Demo video](https://www.youtube.com/watch?v=crLsuk-UVyQ)
 
 ## Features
