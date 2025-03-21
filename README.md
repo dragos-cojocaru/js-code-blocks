@@ -4,7 +4,7 @@ An interactive web application that allows you to write, run, and manage JavaScr
 
 ⚠️ This is for educational purposes only. Executing JavaScript from a string with `eval()` is an enormous security risk. ⚠️
 
-[Demo video](https://www.youtube.com/watch?v=crLsuk-UVyQ)
+[Demo video](https://youtu.be/Hd_08Kk7ulM)
 
 ## Features
 
